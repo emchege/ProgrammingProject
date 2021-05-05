@@ -6,7 +6,7 @@ import {
 } from 'reactstrap';
 import { NavLink } from 'react-router-dom';
 import Image1 from '../imgs/ivy.png';
-import Image2 from '../imgs/logo3.png';
+import Image2 from '../imgs/logo3.PNG';
 class Header extends Component {
     constructor(props) {
         super(props);
